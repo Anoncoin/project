@@ -5,22 +5,13 @@ Anoncoin was created in June 2013 as the first cryptocurrency with built-in supp
 
 Anoncoin's creator, Meeh, returned to the project in October 2017 with a small team of new developers. The project is currently in active development, and next release is expected in January 2018. This document will describe the current goals of the Anoncoin project and give an overview of planned features and releases.
 
-## Upcoming releases.
+## Anoncoin 0.9.7, released 13. June 2018.
+* PoW changed to double GOST R 34.11-2012 hashing algorithm, mined with CPU/GPU.
+* First step on the way for the release of Anoncash later this year.
+* [Read release notes and download the wallet here.](https://github.com/Anoncoin/anoncoin/releases)
 
-### Release 0.9.7 - January 2018
-* New DNS Seeds.
-* CMake build system.
-* Builds for all platforms.
-
-### Future release - mid-2018
-* Stealth addresses. 
-    * QA needed: https://github.com/Anoncoin/anoncoin/pull/14
-* Ring signatures.
-* New mining algorithm.
-    * Considering: https://github.com/Anoncoin/cuckoo
-* Etc..
-
-## Project goals.
+### Anoncash
+* Anoncash is the next generation of private digital cash, created by the Anoncoin core team, more information coming soon.
 
 ## Project history.
 Anoncoin was created in June 2013 as the first cryptocurrency with built-in support for I2P and Tor. Anoncoin was released in an entirely transparent manner and with a fair initial coin distribution. Though there was a small pre-mine of 4200 ANC for technical reasons, these coins were returned to the community through a public faucet, bounties, and give-a-ways.
