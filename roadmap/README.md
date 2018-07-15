@@ -20,4 +20,4 @@ Anoncoin was originally a fork of the Litecoin source code, and it now includes 
 
 Anoncoin was initially planning to implement Zerocoin in a trustless manner using RSA UFOs. Using RSA UFOs to implement the Zerocoin protocol turned out to be impractical, and we do not want to use a trusted setup. Instead, we want to take a different direction moving forward.
 
-Anoncoin's founder returned to the project in October 2017 together with a small group of new developers. The project is currently in active development. The new team release Anoncoin 0.9.7 on July 13, 2018. The next release will be Anoncash, the next generation of private digital cash.
+Anoncoin's founder returned to the project in October 2017 together with a small group of new developers. The project is currently in active development. The new team released Anoncoin 0.9.7 on July 13, 2018. The next release will be Anoncash, the next generation of private digital cash.
